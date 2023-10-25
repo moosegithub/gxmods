@@ -15,7 +15,7 @@
         "license": "license.txt",
         "payload":
                 {
-            "background_music": "tokyoghoulopening.mp3
+            "background_music": tokyoghoulopening.mp3
             "browser_sounds":
             {
                 "CLICK":
